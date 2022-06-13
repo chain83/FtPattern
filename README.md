@@ -2,6 +2,8 @@
 Fourier Transformation plugins _by Ronald Chambers (RONC) and Francesco Pierfederici._
 and actions for Adobe Photoshop _by Jonas M. Rogne (Chain) and Ronald Chambers (RONC)._ 
 
+http://ft.rognemedia.no/ contains instructions for installing and using the pattern suppressor for end users. Detailed video tutorial.
+
 ## What is this? 
 This is a set of plugins and actions for Adobe Photoshop that will let you easily remove regular repeating patterns from images that cannot conveniently be removed by traditional means.
 
